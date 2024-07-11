@@ -11,6 +11,8 @@ Our objective is to leverage Power BI to transform these datasets into a compell
 ## DASHBOARD PREVIEW(OVERAL)
 ![image](https://github.com/swaraj890/Unveiling-Insights-in-the-Movie-Industry-Dashboard-PowerBi-/assets/135042121/a2b9274d-1dda-448d-b667-5236e948fcdf)
 https://drive.google.com/file/d/14ZYWij54vwpP2-itfgG6NME5iFbT8R3q/view?usp=sharing
+![Screenshot (137)](https://github.com/swaraj890/Unveiling-Insights-in-the-Movie-Industry-Dashboard-PowerBi-/assets/135042121/874b13a4-b7a2-41b0-b116-200ff782f127)
+
 ## DASHBOARD PREVIEW(ONLY FINANCIAL ANALYSIS)
 ![movies revenue analysis dashboard](https://github.com/swaraj890/Unveiling-Insights-in-the-Movie-Industry-Dashboard-PowerBi-/assets/135042121/e677547c-6c3b-411a-ad8f-26573b66adbd)
 ## Installation Instructions
