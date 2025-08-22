@@ -33,6 +33,3 @@ For inquiries or collaboration opportunities, feel free to contact :
 - [swaraj mallick]
 - [swaraj890806@gmail.com]
 - [https://www.linkedin.com/in/swaraj-mallick-648b6b192/]
-
-## Acknowledgments
-Special thanks to Almabetter and team  for their guidance, inspiration, and support to this project.
